@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/fabio/.config/Popcorn-Time-CE/Local Storage'
+let g:netrw_dirhist_2='/home/fabio/.config/Popcorn-Time-CE/IndexedDB'
+let g:netrw_dirhist_3='/home/fabio/.config/Popcorn-Time-CE/Cache'
+let g:netrw_dirhist_4='/home/fabio/Downloads/.idea'
